@@ -1,3 +1,3 @@
 # Meditation-app
 
-test2
+Simple Meditation Timer
